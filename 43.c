@@ -4,13 +4,14 @@
 
 int main(int argc, char **argv)
 {
-	int vetor[TAM];
+	int vetorE[TAM], vetorS[TAM];
 	for(int i = 0; i < TAM; i++){
-		scanf(" %d", &vetor[i]);
+		scanf(" %d", &vetorE[i]);
+		vetorS[TAM-(i+1)] = vetorE[i];
 	}
 	printf("\n");
-	for(int i = TAM-1; i >=0; i--){
-		printf("%d\n", vetor[i]);
+	for(int i = 0; i < TAM; i++){
+		printf("%d\n", vetorS[i]);
 	}
 	return SUCESSO;
 }
