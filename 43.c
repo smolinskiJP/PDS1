@@ -8,6 +8,7 @@ int main(int argc, char **argv)
 	for(int i = 0; i < TAM; i++){
 		scanf(" %d", &vetor[i]);
 	}
+	printf("\n");
 	for(int i = TAM-1; i >=0; i--){
 		printf("%d\n", vetor[i]);
 	}
