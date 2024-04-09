@@ -11,7 +11,7 @@ int main(int argc, char** argv){
 		printf("%d\n", i);
 		if(i > 300 && i < 400) i += 3;
 		else i += 5;
-	}while(i <= 457);
+	}while(i <= END);
 	
 	return SUCESSO;
 }
