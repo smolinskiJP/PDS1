@@ -18,4 +18,6 @@ int main(int argc, char** argv){
 		x0 = x1;
 		x1 = 4*x1 - 2*swap;
 	}
+
+	return SUCESSO;
 }
