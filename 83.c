@@ -3,7 +3,6 @@
 #define SUCESSO 0
 #define TAM_MAX 8
 #define NOME_TAM (50 + 1)
-#define TAM_OPERACAO (10 + 1)
 
 typedef struct produto_t{
     char nome[NOME_TAM];
