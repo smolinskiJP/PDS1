@@ -1,0 +1,424 @@
+AC	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+AC	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+AC	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+AC	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+AC	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+AC	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+AC	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+AC	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+AC	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+AC	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+AC	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+AC	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+AC	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+AL	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+AL	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+AL	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+AL	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+AL	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+AL	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+AL	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+AL	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+AL	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+AL	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+AL	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+AL	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+AL	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+AL	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+AL	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+AL	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+AL	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAF           	FUNDEB              	
+AM	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+AM	6421226	6421231	          0.00	          0.00	          0.00	IOF Ouro            	IOF-Ouro            	
+AM	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+AM	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+AM	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+AM	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+AM	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+AM	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+AM	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+AM	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+AM	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+AM	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+AM	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+AM	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+AM	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+AM	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+AM	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+AM	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAF           	FUNDEB              	
+AP	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+AP	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+AP	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+AP	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+AP	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+AP	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+AP	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+AP	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+AP	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+AP	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+AP	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+AP	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+AP	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+AP	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+AP	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+BA	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+BA	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+BA	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+BA	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+BA	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+BA	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+BA	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+BA	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+BA	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+BA	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+BA	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+BA	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+BA	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+BA	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+BA	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+BA	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+BA	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAF           	FUNDEB              	
+CE	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+CE	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+CE	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+CE	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+CE	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+CE	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+CE	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+CE	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+CE	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+CE	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+CE	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+CE	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+CE	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+CE	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+CE	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAF           	FUNDEB              	
+DF	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+DF	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+DF	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+DF	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+DF	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+DF	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+DF	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+DF	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+DF	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+DF	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+DF	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+DF	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+DF	6421226	6421231	          0.00	          0.00	          0.00	ITA                 	Royalties           	
+DF	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+DF	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+ES	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+ES	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+ES	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+ES	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+ES	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+ES	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+ES	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+ES	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+ES	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+ES	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+ES	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+ES	6421226	6421231	          0.00	          0.00	          0.00	PEA                 	Royalties           	
+ES	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+ES	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+ES	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+ES	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+ES	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+GO	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+GO	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+GO	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+GO	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+GO	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+GO	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+GO	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+GO	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+GO	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+GO	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+GO	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+GO	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+GO	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+GO	6421226	6421231	          0.00	          0.00	          0.00	ITA                 	Royalties           	
+GO	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+GO	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+MA	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+MA	6421226	6421231	          0.00	          0.00	          0.00	IOF Ouro            	IOF-Ouro            	
+MA	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+MA	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+MA	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+MA	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+MA	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+MA	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+MA	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+MA	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+MA	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+MA	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+MA	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+MA	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+MA	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+MA	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+MA	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAF           	FUNDEB              	
+MG	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+MG	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+MG	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+MG	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+MG	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+MG	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+MG	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+MG	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+MG	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+MG	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+MG	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+MG	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+MG	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+MG	6421226	6421231	          0.00	          0.00	          0.00	ITA                 	Royalties           	
+MG	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+MS	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+MS	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+MS	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+MS	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+MS	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+MS	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+MS	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+MS	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+MS	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+MS	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+MS	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+MS	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+MS	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+MS	6421226	6421231	          0.00	          0.00	          0.00	ITA                 	Royalties           	
+MS	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+MT	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+MT	6421226	6421231	          0.00	          0.00	          0.00	IOF Ouro            	IOF-Ouro            	
+MT	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+MT	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+MT	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+MT	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+MT	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+MT	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+MT	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+MT	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+MT	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+MT	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+MT	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+MT	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+MT	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PA	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+PA	6421226	6421231	          0.00	          0.00	          0.00	IOF Ouro            	IOF-Ouro            	
+PA	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+PA	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+PA	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+PA	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+PA	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+PA	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+PA	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+PA	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+PA	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+PA	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+PA	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+PA	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+PA	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PA	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+PA	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAF           	FUNDEB              	
+PB	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+PB	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+PB	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+PB	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+PB	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+PB	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+PB	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+PB	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+PB	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+PB	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+PB	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+PB	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+PB	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PB	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+PB	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAF           	FUNDEB              	
+PE	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+PE	6421226	6421231	          0.00	          0.00	          0.00	IOF Ouro            	IOF-Ouro            	
+PE	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+PE	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+PE	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+PE	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+PE	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+PE	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+PE	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+PE	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+PE	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+PE	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+PE	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+PE	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+PE	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PE	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+PE	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAF           	FUNDEB              	
+PI	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+PI	6421226	6421231	          0.00	          0.00	          0.00	IOF Ouro            	IOF-Ouro            	
+PI	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+PI	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+PI	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+PI	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+PI	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+PI	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+PI	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+PI	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+PI	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+PI	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+PI	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+PI	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+PI	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PI	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAF           	FUNDEB              	
+PR	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+PR	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+PR	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+PR	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+PR	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+PR	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+PR	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+PR	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+PR	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+PR	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+PR	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+PR	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+PR	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+PR	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+PR	6421226	6421231	          0.00	          0.00	          0.00	ITA                 	Royalties           	
+PR	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PR	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+RJ	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAF           	FUNDEB              	
+RN	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+RN	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+RN	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+RN	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+RN	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+RN	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+RN	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+RN	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+RN	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+RN	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+RN	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+RN	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+RN	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+RN	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+RN	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+RO	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+RO	6421226	6421231	          0.00	          0.00	          0.00	IOF Ouro            	IOF-Ouro            	
+RO	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+RO	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+RO	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+RO	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+RO	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+RO	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+RO	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+RO	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+RO	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+RO	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+RO	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+RO	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+RO	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+RO	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+RR	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+RR	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+RR	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+RR	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+RR	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+RR	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+RR	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+RR	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+RR	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+RR	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+RR	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+RR	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+RR	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+RS	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+RS	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+RS	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+RS	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+RS	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+RS	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+RS	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+RS	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+RS	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+RS	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+RS	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+RS	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+RS	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+RS	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+RS	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
+SC	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+SC	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+SC	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+SC	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+SC	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+SC	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+SC	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+SC	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+SC	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+SC	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+SC	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+SC	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+SC	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+SC	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+SE	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+SE	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+SE	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+SE	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+SE	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+SE	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+SE	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+SE	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+SE	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+SE	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+SE	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+SE	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+SE	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+SE	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+SE	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+SP	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+SP	6421226	6421231	          0.00	          0.00	          0.00	IOF Ouro            	IOF-Ouro            	
+SP	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+SP	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+SP	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+SP	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+SP	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+SP	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+SP	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+SP	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+SP	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+SP	6421226	6421231	          0.00	          0.00	          0.00	ANP                 	Royalties           	
+SP	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+SP	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+SP	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+SP	6421226	6421231	          0.00	          0.00	          0.00	ITA                 	Royalties           	
+SP	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+TO	6421226	6421231	          0.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+TO	6421226	6421231	          0.00	          0.00	          0.00	IOF Ouro            	IOF-Ouro            	
+TO	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FPE                 	
+TO	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	IPI-Exp             	
+TO	6421226	6421231	          0.00	          0.00	          0.00	FPM                 	FUNDEB              	
+TO	6421226	6421231	          0.00	          0.00	          0.00	IPI-EXP             	FUNDEB              	
+TO	6421226	6421231	          0.00	          0.00	          0.00	ITR                 	FUNDEB              	
+TO	6421226	6421231	          0.00	          0.00	          0.00	IPVA                	FUNDEB              	
+TO	6421226	6421231	          0.00	          0.00	          0.00	ITCMD               	FUNDEB              	
+TO	6421226	6421231	          0.00	          0.00	          0.00	ICMS                	FUNDEB              	
+TO	6421226	6421231	          0.00	          0.00	          0.00	FPE                 	FUNDEB              	
+TO	6421226	6421231	          0.00	          0.00	          0.00	FEP                 	Royalties           	
+TO	6421226	6421231	          0.00	          0.00	          0.00	CFEM                	Royalties           	
+TO	6421226	6421231	          0.00	          0.00	          0.00	CFH                 	Royalties           	
+TO	6421226	6421231	          0.00	          0.00	          0.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+TO	6421226	6421231	          0.00	          0.00	          0.00	COUN VAAR           	FUNDEB              	
