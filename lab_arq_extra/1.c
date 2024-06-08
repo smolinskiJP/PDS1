@@ -8,7 +8,7 @@
 
 int readCsv(char *inName, char *outName) {
     FILE * inFile, * outFile;
-    char ** columns, line[TAM_LINHA];
+    char ** columns, line[TAM_LINHA], *strEnd = '\0';
     int numCol = 0;
 
     inFile = fopen(inName, "r");
@@ -37,8 +37,11 @@ int readCsv(char *inName, char *outName) {
         int i = 0;
         char* cell = strtok(line,";"); //pega a primera celula
         while(cell){ //enquanto a celula nao for nula
-            fprintf(outFile, columns[i++], cell); //imprime a celula e incrementa a coluna
+            if (strchr(columns[i], 'f')) fprintf(outFile, columns[i], strtof(cell, &strEnd));
+            else if (strchr(columns[i], 'd')) fprintf(outFile, columns[i], atoi(cell));
+            else fprintf(outFile, columns[i], cell);//imprime a celula e incrementa a coluna
             fprintf(outFile, "\t");
+            i++; //incrementa a coluna
             cell = strtok(NULL, ";"); //atualiza a celula
         }
         fprintf(outFile, "\n");
