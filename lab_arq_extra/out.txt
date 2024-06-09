@@ -1,0 +1,424 @@
+AC	2024	 4	    1256159.88	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+AC	2024	 4	  191596976.00	   45636976.00	  170907536.00	FPE                 	FPE                 	
+AC	2024	 4	      25923.78	      12097.79	       2715.37	IPI-EXP             	IPI-Exp             	
+AC	2024	 4	    4584760.00	    1111990.38	    3974470.50	FPM                 	FUNDEB              	
+AC	2024	 4	       3889.53	       1815.10	        407.42	IPI-EXP             	FUNDEB              	
+AC	2024	 4	      25300.57	       8985.24	        823.09	ITR                 	FUNDEB              	
+AC	2024	 4	     520673.13	     252548.48	     382844.09	IPVA                	FUNDEB              	
+AC	2024	 4	      72664.19	      23207.49	      32841.86	ITCMD               	FUNDEB              	
+AC	2024	 4	    5610460.50	    7170894.00	    7202335.50	ICMS                	FUNDEB              	
+AC	2024	 4	   28746594.00	    6847225.50	   25642418.00	FPE                 	FUNDEB              	
+AC	2024	 4	          0.00	          0.00	    3182099.50	FEP                 	Royalties           	
+AC	2024	 4	          0.00	          0.00	       1524.25	CFEM                	Royalties           	
+AC	2024	 4	          0.00	          0.00	     113800.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+AL	2024	 4	    2215712.25	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+AL	2024	 4	  230406144.00	   55166108.00	  203878416.00	FPE                 	FPE                 	
+AL	2024	 4	     273732.28	     127741.93	      28671.95	IPI-EXP             	IPI-Exp             	
+AL	2024	 4	    8030983.50	    1947839.25	    6961958.00	FPM                 	FUNDEB              	
+AL	2024	 4	      17470.78	       8153.08	       1830.01	IPI-EXP             	FUNDEB              	
+AL	2024	 4	      13821.70	       1109.53	       1489.15	ITR                 	FUNDEB              	
+AL	2024	 4	    1615119.38	     493535.38	    1089875.63	IPVA                	FUNDEB              	
+AL	2024	 4	     101300.56	      73037.62	     104596.20	ITCMD               	FUNDEB              	
+AL	2024	 4	    3973502.25	   24663304.00	    9903690.00	ICMS                	FUNDEB              	
+AL	2024	 4	   14705522.00	    3520941.00	   13012407.00	FPE                 	FUNDEB              	
+AL	2024	 4	          0.00	    3000262.25	          0.00	ANP                 	Royalties           	
+AL	2024	 4	          0.00	          0.00	    3684900.00	FEP                 	Royalties           	
+AL	2024	 4	          0.00	          0.00	      74092.86	CFEM                	Royalties           	
+AL	2024	 4	     598910.50	          0.00	          0.00	CFH                 	Royalties           	
+AL	2024	 4	          0.00	          0.00	    1499875.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+AL	2024	 4	          0.00	          0.00	    3068127.50	COUN VAAR           	FUNDEB              	
+AL	2024	 4	          0.00	          0.00	   13210891.00	COUN VAAF           	FUNDEB              	
+AM	2024	 4	    2402742.25	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+AM	2024	 4	       1779.93	          0.00	       2959.43	IOF Ouro            	IOF-Ouro            	
+AM	2024	 4	  174025024.00	   39494464.00	  166543232.00	FPE                 	FPE                 	
+AM	2024	 4	    1477735.38	     689610.94	     154784.64	IPI-EXP             	IPI-Exp             	
+AM	2024	 4	   10212647.00	    2476981.25	    8853214.00	FPM                 	FUNDEB              	
+AM	2024	 4	     151319.16	      70615.73	      15849.87	IPI-EXP             	FUNDEB              	
+AM	2024	 4	       4675.84	       1566.76	        753.58	ITR                 	FUNDEB              	
+AM	2024	 4	    3959757.00	    2263092.00	    1291479.00	IPVA                	FUNDEB              	
+AM	2024	 4	      52102.06	     125302.13	     124770.99	ITCMD               	FUNDEB              	
+AM	2024	 4	    4588094.50	   26654428.00	   36416336.00	ICMS                	FUNDEB              	
+AM	2024	 4	   17820048.00	    4044207.50	   17053918.00	FPE                 	FUNDEB              	
+AM	2024	 4	          0.00	   17566320.00	          0.00	ANP                 	Royalties           	
+AM	2024	 4	          0.00	          0.00	    3863389.75	FEP                 	Royalties           	
+AM	2024	 4	          0.00	          0.00	     211655.34	CFEM                	Royalties           	
+AM	2024	 4	     108339.94	          0.00	          0.00	CFH                 	Royalties           	
+AM	2024	 4	          0.00	          0.00	    1336250.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+AM	2024	 4	          0.00	          0.00	    3899535.50	COUN VAAR           	FUNDEB              	
+AM	2024	 4	          0.00	          0.00	   39889012.00	COUN VAAF           	FUNDEB              	
+AP	2024	 4	     944338.25	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+AP	2024	 4	  186958768.00	   44988112.00	  164135296.00	FPE                 	FPE                 	
+AP	2024	 4	     160247.38	      74782.23	      16785.03	IPI-EXP             	IPI-Exp             	
+AP	2024	 4	    3581239.25	     868595.88	    3104531.00	FPM                 	FUNDEB              	
+AP	2024	 4	      23398.89	      10919.49	       2450.89	IPI-EXP             	FUNDEB              	
+AP	2024	 4	        235.82	        115.65	        545.44	ITR                 	FUNDEB              	
+AP	2024	 4	    1221332.38	     882753.25	     345720.09	IPVA                	FUNDEB              	
+AP	2024	 4	       5016.83	      10109.56	       3521.55	ITCMD               	FUNDEB              	
+AP	2024	 4	    2196660.75	   10787197.00	     558633.81	ICMS                	FUNDEB              	
+AP	2024	 4	   27299200.00	    6569039.00	   23966578.00	FPE                 	FUNDEB              	
+AP	2024	 4	          0.00	          0.00	    2878358.25	FEP                 	Royalties           	
+AP	2024	 4	          0.00	          0.00	      70684.72	CFEM                	Royalties           	
+AP	2024	 4	     424778.94	          0.00	          0.00	CFH                 	Royalties           	
+AP	2024	 4	          0.00	          0.00	     508100.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+AP	2024	 4	          0.00	          0.00	     952262.69	COUN VAAR           	FUNDEB              	
+BA	2024	 4	   10270788.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+BA	2024	 4	  499686400.00	  121950504.00	  428801184.00	FPE                 	FPE                 	
+BA	2024	 4	   11730251.00	    5474125.50	    1228679.13	IPI-EXP             	IPI-Exp             	
+BA	2024	 4	   33488100.00	    8122223.00	   29030410.00	FPM                 	FUNDEB              	
+BA	2024	 4	     759888.63	     354615.31	      79594.19	IPI-EXP             	FUNDEB              	
+BA	2024	 4	      28041.92	      11041.77	       7296.80	ITR                 	FUNDEB              	
+BA	2024	 4	    3396040.75	    1885033.88	    1874113.00	IPVA                	FUNDEB              	
+BA	2024	 4	     531552.88	     400042.63	     289551.84	ITCMD               	FUNDEB              	
+BA	2024	 4	   61297832.00	   64126444.00	   29019898.00	ICMS                	FUNDEB              	
+BA	2024	 4	   32369816.00	    7899985.00	   27777852.00	FPE                 	FUNDEB              	
+BA	2024	 4	          0.00	   15233858.00	          0.00	ANP                 	Royalties           	
+BA	2024	 4	          0.00	          0.00	    6842529.00	FEP                 	Royalties           	
+BA	2024	 4	          0.00	          0.00	    2286387.50	CFEM                	Royalties           	
+BA	2024	 4	    1800630.63	          0.00	          0.00	CFH                 	Royalties           	
+BA	2024	 4	          0.00	          0.00	    9940438.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+BA	2024	 4	          0.00	          0.00	    6140923.50	COUN VAAR           	FUNDEB              	
+BA	2024	 4	          0.00	          0.00	   78368464.00	COUN VAAF           	FUNDEB              	
+CE	2024	 4	    6105080.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+CE	2024	 4	  386692192.00	   94778144.00	  329499424.00	FPE                 	FPE                 	
+CE	2024	 4	    2048357.88	     955901.88	     214554.19	IPI-EXP             	IPI-Exp             	
+CE	2024	 4	   16756935.00	    4064236.50	   14526375.00	FPM                 	FUNDEB              	
+CE	2024	 4	     122364.41	      57103.40	      12816.96	IPI-EXP             	FUNDEB              	
+CE	2024	 4	       1728.85	        510.27	        613.46	ITR                 	FUNDEB              	
+CE	2024	 4	    7811388.50	    2531813.00	    1401332.75	IPVA                	FUNDEB              	
+CE	2024	 4	     829062.44	       1838.48	          0.00	ITCMD               	FUNDEB              	
+CE	2024	 4	   12990320.00	   22334254.00	   40726976.00	ICMS                	FUNDEB              	
+CE	2024	 4	   23100134.00	    5661836.00	   19683566.00	FPE                 	FUNDEB              	
+CE	2024	 4	          0.00	     355800.22	          0.00	ANP                 	Royalties           	
+CE	2024	 4	          0.00	          0.00	    5094165.00	FEP                 	Royalties           	
+CE	2024	 4	          0.00	          0.00	     177177.94	CFEM                	Royalties           	
+CE	2024	 4	          0.00	          0.00	    2104300.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+CE	2024	 4	          0.00	          0.00	   57939876.00	COUN VAAF           	FUNDEB              	
+DF	2024	 4	    2828233.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+DF	2024	 4	   36972812.00	    8992212.00	   31907916.00	FPE                 	FPE                 	
+DF	2024	 4	     433608.00	     202350.72	      45418.06	IPI-EXP             	IPI-Exp             	
+DF	2024	 4	    3080632.00	     747178.38	    2670561.00	FPM                 	FUNDEB              	
+DF	2024	 4	     108401.99	      50587.67	      11354.50	IPI-EXP             	FUNDEB              	
+DF	2024	 4	       4677.65	       1454.80	       1290.67	ITR                 	FUNDEB              	
+DF	2024	 4	    7109270.50	   10509610.00	   15423214.00	IPVA                	FUNDEB              	
+DF	2024	 4	    1270728.13	    1801560.13	    2042744.88	ITCMD               	FUNDEB              	
+DF	2024	 4	   27702252.00	   96156968.00	   66988752.00	ICMS                	FUNDEB              	
+DF	2024	 4	    9243203.00	    2248053.00	    7976979.00	FPE                 	FUNDEB              	
+DF	2024	 4	          0.00	          0.00	     261281.95	CFEM                	Royalties           	
+DF	2024	 4	      27037.84	          0.00	          0.00	CFH                 	Royalties           	
+DF	2024	 4	          0.00	       2037.23	          0.00	ITA                 	Royalties           	
+DF	2024	 4	          0.00	          0.00	    1012187.50	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+DF	2024	 4	          0.00	          0.00	     458093.28	COUN VAAR           	FUNDEB              	
+ES	2024	 4	    3328482.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+ES	2024	 4	   84138504.00	   20026908.00	   75135296.00	FPE                 	FPE                 	
+ES	2024	 4	    8771199.00	    4093232.75	     918734.75	IPI-EXP             	IPI-Exp             	
+ES	2024	 4	    8162072.50	    1979633.75	    7075597.50	FPM                 	FUNDEB              	
+ES	2024	 4	     720483.94	     336226.38	      75466.72	IPI-EXP             	FUNDEB              	
+ES	2024	 4	       2947.40	       1069.03	       1236.70	ITR                 	FUNDEB              	
+ES	2024	 4	    5700765.00	    9481727.00	   10420125.00	IPVA                	FUNDEB              	
+ES	2024	 4	     485953.97	     229964.50	     439738.16	ITCMD               	FUNDEB              	
+ES	2024	 4	   13790905.00	   44027464.00	   63032624.00	ICMS                	FUNDEB              	
+ES	2024	 4	    6911306.00	    1645050.50	    6171764.50	FPE                 	FUNDEB              	
+ES	2024	 4	     423450.13	   57241784.00	   29913726.00	ANP                 	Royalties           	
+ES	2024	 4	          0.00	   72446752.00	          0.00	PEA                 	Royalties           	
+ES	2024	 4	          0.00	          0.00	    1404488.38	FEP                 	Royalties           	
+ES	2024	 4	          0.00	          0.00	     183672.56	CFEM                	Royalties           	
+ES	2024	 4	     202015.69	          0.00	          0.00	CFH                 	Royalties           	
+ES	2024	 4	          0.00	          0.00	    6677875.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+ES	2024	 4	          0.00	          0.00	    2052619.75	COUN VAAR           	FUNDEB              	
+GO	2024	 4	    8342817.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+GO	2024	 4	  153778512.00	   37230212.00	  133697696.00	FPE                 	FPE                 	
+GO	2024	 4	    6655335.00	    3105828.00	     697109.63	IPI-EXP             	IPI-Exp             	
+GO	2024	 4	   21258026.00	    5155933.00	   18428314.00	FPM                 	FUNDEB              	
+GO	2024	 4	     671558.25	     313394.38	      70342.07	IPI-EXP             	FUNDEB              	
+GO	2024	 4	     208957.34	     132138.86	     149856.11	ITR                 	FUNDEB              	
+GO	2024	 4	    2116066.25	    6818706.50	    3552814.75	IPVA                	FUNDEB              	
+GO	2024	 4	    2279987.25	    2313321.50	    1585424.25	ITCMD               	FUNDEB              	
+GO	2024	 4	   36088104.00	  155229360.00	    7625542.00	ICMS                	FUNDEB              	
+GO	2024	 4	   15517058.00	    3756723.75	   13490799.00	FPE                 	FUNDEB              	
+GO	2024	 4	          0.00	          0.00	    2254993.25	FEP                 	Royalties           	
+GO	2024	 4	          0.00	          0.00	    2019471.38	CFEM                	Royalties           	
+GO	2024	 4	    4891079.00	          0.00	          0.00	CFH                 	Royalties           	
+GO	2024	 4	          0.00	     829243.06	          0.00	ITA                 	Royalties           	
+GO	2024	 4	          0.00	          0.00	   16100576.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+GO	2024	 4	          0.00	          0.00	    5290384.00	COUN VAAR           	FUNDEB              	
+MA	2024	 4	    5274296.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+MA	2024	 4	        391.05	          0.00	          0.00	IOF Ouro            	IOF-Ouro            	
+MA	2024	 4	  382910176.00	   93561240.00	  327952416.00	FPE                 	FPE                 	
+MA	2024	 4	    3206295.75	    1496273.75	     335841.81	IPI-EXP             	IPI-Exp             	
+MA	2024	 4	   11631248.00	    2821049.50	   10082982.00	FPM                 	FUNDEB              	
+MA	2024	 4	     157728.63	      73606.82	      16521.23	IPI-EXP             	FUNDEB              	
+MA	2024	 4	      11405.23	       3538.09	       1509.98	ITR                 	FUNDEB              	
+MA	2024	 4	     744703.06	    2302408.75	     829283.06	IPVA                	FUNDEB              	
+MA	2024	 4	       8723.75	      46996.73	      25250.88	ITCMD               	FUNDEB              	
+MA	2024	 4	    1376748.25	   14054698.00	   30822492.00	ICMS                	FUNDEB              	
+MA	2024	 4	   18836666.00	    4602598.50	   16133105.00	FPE                 	FUNDEB              	
+MA	2024	 4	          0.00	    1055665.75	          0.00	ANP                 	Royalties           	
+MA	2024	 4	          0.00	          0.00	    5188514.50	FEP                 	Royalties           	
+MA	2024	 4	          0.00	          0.00	     235940.53	CFEM                	Royalties           	
+MA	2024	 4	     344149.63	          0.00	          0.00	CFH                 	Royalties           	
+MA	2024	 4	          0.00	          0.00	    5910513.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+MA	2024	 4	          0.00	          0.00	   62333176.00	COUN VAAF           	FUNDEB              	
+MG	2024	 4	   17203950.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+MG	2024	 4	  249585056.00	   59437648.00	  222701248.00	FPE                 	FPE                 	
+MG	2024	 4	   34945504.00	   16307928.00	    3660349.00	IPI-EXP             	IPI-Exp             	
+MG	2024	 4	   84338216.00	   20455438.00	   73111728.00	FPM                 	FUNDEB              	
+MG	2024	 4	    4015824.25	    1874054.25	     420635.28	IPI-EXP             	FUNDEB              	
+MG	2024	 4	     201276.69	      69185.95	      90253.65	ITR                 	FUNDEB              	
+MG	2024	 4	   34409732.00	   17402650.00	   22492012.00	IPVA                	FUNDEB              	
+MG	2024	 4	    7939280.50	    2182812.00	    5656216.50	ITCMD               	FUNDEB              	
+MG	2024	 4	  133781416.00	  363910112.00	  154675888.00	ICMS                	FUNDEB              	
+MG	2024	 4	   28681506.00	    6830381.50	   25592104.00	FPE                 	FUNDEB              	
+MG	2024	 4	          0.00	          0.00	    4150982.25	FEP                 	Royalties           	
+MG	2024	 4	          0.00	          0.00	   41577940.00	CFEM                	Royalties           	
+MG	2024	 4	    9226676.00	          0.00	          0.00	CFH                 	Royalties           	
+MG	2024	 4	          0.00	    2111022.50	          0.00	ITA                 	Royalties           	
+MG	2024	 4	          0.00	          0.00	   33126552.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+MS	2024	 4	    4384253.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+MS	2024	 4	   70436688.00	   17236652.00	   60177044.00	FPE                 	FPE                 	
+MS	2024	 4	    5780216.50	    2697438.50	     605445.81	IPI-EXP             	IPI-Exp             	
+MS	2024	 4	    7248522.50	    1758060.75	    6283652.50	FPM                 	FUNDEB              	
+MS	2024	 4	     511934.34	     238903.06	      53622.30	IPI-EXP             	FUNDEB              	
+MS	2024	 4	     216572.81	     107204.27	      96273.28	ITR                 	FUNDEB              	
+MS	2024	 4	    3436392.00	    1129026.38	    1665893.75	IPVA                	FUNDEB              	
+MS	2024	 4	     837019.19	     819700.81	    2948237.75	ITCMD               	FUNDEB              	
+MS	2024	 4	   14864758.00	   32620136.00	   36969204.00	ICMS                	FUNDEB              	
+MS	2024	 4	    6238341.00	    1526592.50	    5329679.00	FPE                 	FUNDEB              	
+MS	2024	 4	          0.00	          0.00	     941516.38	FEP                 	Royalties           	
+MS	2024	 4	          0.00	          0.00	     744400.00	CFEM                	Royalties           	
+MS	2024	 4	    1672185.50	          0.00	          0.00	CFH                 	Royalties           	
+MS	2024	 4	          0.00	     429873.66	          0.00	ITA                 	Royalties           	
+MS	2024	 4	          0.00	          0.00	   10085451.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+MT	2024	 4	    6709491.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+MT	2024	 4	     134245.30	      52555.57	      81978.40	IOF Ouro            	IOF-Ouro            	
+MT	2024	 4	  119499000.00	   29539854.00	  100376016.00	FPE                 	FPE                 	
+MT	2024	 4	    6625421.00	    3091868.00	     693976.31	IPI-EXP             	IPI-Exp             	
+MT	2024	 4	   11231223.00	    2724027.00	    9736206.00	FPM                 	FUNDEB              	
+MT	2024	 4	     738585.56	     344673.81	      77362.69	IPI-EXP             	FUNDEB              	
+MT	2024	 4	     372556.31	     198268.19	     162508.80	ITR                 	FUNDEB              	
+MT	2024	 4	    5704655.50	    3210730.50	    5084742.00	IPVA                	FUNDEB              	
+MT	2024	 4	    1163843.38	     120734.25	     507476.28	ITCMD               	FUNDEB              	
+MT	2024	 4	   26764320.00	   89779056.00	   39145820.00	ICMS                	FUNDEB              	
+MT	2024	 4	   13321453.00	    3293030.00	   11189670.00	FPE                 	FUNDEB              	
+MT	2024	 4	          0.00	          0.00	    1449589.75	FEP                 	Royalties           	
+MT	2024	 4	          0.00	          0.00	    1064069.38	CFEM                	Royalties           	
+MT	2024	 4	    1931733.63	          0.00	          0.00	CFH                 	Royalties           	
+MT	2024	 4	          0.00	          0.00	   43354540.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PA	2024	 4	    5402849.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+PA	2024	 4	       4951.91	        201.15	       1550.40	IOF Ouro            	IOF-Ouro            	
+PA	2024	 4	  331807552.00	   80192264.00	  289284192.00	FPE                 	FPE                 	
+PA	2024	 4	   18303060.00	    8541442.00	    1917144.75	IPI-EXP             	IPI-Exp             	
+PA	2024	 4	   12369475.00	    3000099.75	   10722942.00	FPM                 	FUNDEB              	
+PA	2024	 4	    1189318.75	     555016.25	     124574.56	IPI-EXP             	FUNDEB              	
+PA	2024	 4	      20362.39	       8959.55	       9992.20	ITR                 	FUNDEB              	
+PA	2024	 4	    3864374.50	    2626514.25	          0.00	IPVA                	FUNDEB              	
+PA	2024	 4	     176927.19	     125187.05	          0.00	ITCMD               	FUNDEB              	
+PA	2024	 4	   20372218.00	   78424920.00	          0.00	ICMS                	FUNDEB              	
+PA	2024	 4	   21560596.00	    5210831.00	   18797462.00	FPE                 	FUNDEB              	
+PA	2024	 4	          0.00	          0.00	    4934853.50	FEP                 	Royalties           	
+PA	2024	 4	          0.00	          0.00	   34189804.00	CFEM                	Royalties           	
+PA	2024	 4	    4264663.50	          0.00	          0.00	CFH                 	Royalties           	
+PA	2024	 4	          0.00	          0.00	   18131576.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PA	2024	 4	          0.00	          0.00	    4615899.50	COUN VAAR           	FUNDEB              	
+PA	2024	 4	          0.00	          0.00	   76323056.00	COUN VAAF           	FUNDEB              	
+PB	2024	 4	    3096867.25	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+PB	2024	 4	  254703424.00	   62157748.00	  218592480.00	FPE                 	FPE                 	
+PB	2024	 4	     208214.13	      97166.75	      21809.28	IPI-EXP             	IPI-Exp             	
+PB	2024	 4	   13915050.00	    3374963.50	   12062781.00	FPM                 	FUNDEB              	
+PB	2024	 4	      15650.83	       7303.76	       1639.34	IPI-EXP             	FUNDEB              	
+PB	2024	 4	       2364.31	        591.54	        497.50	ITR                 	FUNDEB              	
+PB	2024	 4	    2364411.50	     776198.63	    1464484.25	IPVA                	FUNDEB              	
+PB	2024	 4	     132460.88	      52716.65	     208433.05	ITCMD               	FUNDEB              	
+PB	2024	 4	    4280950.50	   22245194.00	   22097934.00	ICMS                	FUNDEB              	
+PB	2024	 4	   19145314.00	    4672216.50	   16430959.00	FPE                 	FUNDEB              	
+PB	2024	 4	          0.00	          0.00	    3489638.25	FEP                 	Royalties           	
+PB	2024	 4	          0.00	          0.00	     122998.18	CFEM                	Royalties           	
+PB	2024	 4	          0.00	          0.00	     359375.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PB	2024	 4	          0.00	          0.00	    1982732.50	COUN VAAR           	FUNDEB              	
+PB	2024	 4	          0.00	          0.00	    7599322.00	COUN VAAF           	FUNDEB              	
+PE	2024	 4	    5330211.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+PE	2024	 4	          0.00	        931.66	         25.17	IOF Ouro            	IOF-Ouro            	
+PE	2024	 4	  371025088.00	   90076896.00	  321126944.00	FPE                 	FPE                 	
+PE	2024	 4	    3327205.00	    1552698.25	     348506.41	IPI-EXP             	IPI-Exp             	
+PE	2024	 4	   23765480.00	    5764093.50	   20601994.00	FPM                 	FUNDEB              	
+PE	2024	 4	     285550.88	     133257.31	      29909.88	IPI-EXP             	FUNDEB              	
+PE	2024	 4	      11799.39	       1766.29	       1287.54	ITR                 	FUNDEB              	
+PE	2024	 4	    4798971.00	    2490575.75	    3727339.25	IPVA                	FUNDEB              	
+PE	2024	 4	          0.00	    1944104.50	          0.00	ITCMD               	FUNDEB              	
+PE	2024	 4	   53996868.00	   40410488.00	   63360372.00	ICMS                	FUNDEB              	
+PE	2024	 4	   31842500.00	    7730672.50	   27560090.00	FPE                 	FUNDEB              	
+PE	2024	 4	          0.00	          0.00	    5316030.50	FEP                 	Royalties           	
+PE	2024	 4	          0.00	          0.00	     116183.71	CFEM                	Royalties           	
+PE	2024	 4	     488336.78	          0.00	          0.00	CFH                 	Royalties           	
+PE	2024	 4	          0.00	          0.00	    1857062.50	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PE	2024	 4	          0.00	          0.00	    5079911.50	COUN VAAR           	FUNDEB              	
+PE	2024	 4	          0.00	          0.00	   25266040.00	COUN VAAF           	FUNDEB              	
+PI	2024	 4	    4288633.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+PI	2024	 4	          0.00	          0.00	         13.10	IOF Ouro            	IOF-Ouro            	
+PI	2024	 4	  231062448.00	   56246316.00	  199124432.00	FPE                 	FPE                 	
+PI	2024	 4	      65065.84	      30364.11	       6815.30	IPI-EXP             	IPI-Exp             	
+PI	2024	 4	   11774551.00	    2855806.25	   10207209.00	FPM                 	FUNDEB              	
+PI	2024	 4	       5116.01	       2387.52	        535.88	IPI-EXP             	FUNDEB              	
+PI	2024	 4	      14705.11	       1554.67	       2445.17	ITR                 	FUNDEB              	
+PI	2024	 4	    2963450.50	     652736.25	     525607.75	IPVA                	FUNDEB              	
+PI	2024	 4	      66367.72	      19412.96	      33336.23	ITCMD               	FUNDEB              	
+PI	2024	 4	    4067294.00	   11469833.00	   15234600.00	ICMS                	FUNDEB              	
+PI	2024	 4	   18168176.00	    4422584.00	   15656928.00	FPE                 	FUNDEB              	
+PI	2024	 4	          0.00	          0.00	    3236394.25	FEP                 	Royalties           	
+PI	2024	 4	          0.00	          0.00	      41817.52	CFEM                	Royalties           	
+PI	2024	 4	      57058.29	          0.00	          0.00	CFH                 	Royalties           	
+PI	2024	 4	          0.00	          0.00	    2643150.25	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PI	2024	 4	          0.00	          0.00	   28069610.00	COUN VAAF           	FUNDEB              	
+PR	2024	 4	   10173695.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+PR	2024	 4	  151963392.00	   37245716.00	  129490320.00	FPE                 	FPE                 	
+PR	2024	 4	   26431340.00	   12334645.00	    2768537.00	IPI-EXP             	IPI-Exp             	
+PR	2024	 4	   44738276.00	   10850846.00	   38783044.00	FPM                 	FUNDEB              	
+PR	2024	 4	    3085913.50	    1440095.25	     323232.38	IPI-EXP             	FUNDEB              	
+PR	2024	 4	     176698.38	      77214.21	      96159.10	ITR                 	FUNDEB              	
+PR	2024	 4	   21775186.00	   11880105.00	   24455108.00	IPVA                	FUNDEB              	
+PR	2024	 4	    6215296.00	    1744234.38	    3475577.75	ITCMD               	FUNDEB              	
+PR	2024	 4	   86253104.00	  229021440.00	   72729320.00	ICMS                	FUNDEB              	
+PR	2024	 4	   17742038.00	    4348514.00	   15118262.00	FPE                 	FUNDEB              	
+PR	2024	 4	          0.00	     853321.63	    4650922.50	ANP                 	Royalties           	
+PR	2024	 4	          0.00	          0.00	    2002151.88	FEP                 	Royalties           	
+PR	2024	 4	          0.00	          0.00	     426615.22	CFEM                	Royalties           	
+PR	2024	 4	    7095069.00	          0.00	          0.00	CFH                 	Royalties           	
+PR	2024	 4	          0.00	   23898228.00	          0.00	ITA                 	Royalties           	
+PR	2024	 4	          0.00	          0.00	   16529538.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+PR	2024	 4	          0.00	          0.00	    8707587.00	COUN VAAR           	FUNDEB              	
+RJ	2024	 4	    7165186.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+RJ	2024	 4	   90452232.00	   21005590.00	   83802544.00	FPE                 	FPE                 	
+RJ	2024	 4	   57621176.00	   26889924.00	    6035500.50	IPI-EXP             	IPI-Exp             	
+RJ	2024	 4	   11626462.00	    2819889.00	   10078833.00	FPM                 	FUNDEB              	
+RJ	2024	 4	    3937971.00	    1837722.75	     412480.75	IPI-EXP             	FUNDEB              	
+RJ	2024	 4	      27692.46	       1663.12	       5220.65	ITR                 	FUNDEB              	
+RJ	2024	 4	   17245168.00	   10218005.00	    8503801.00	IPVA                	FUNDEB              	
+RJ	2024	 4	    3208368.50	    1583103.75	    2809443.00	ITCMD               	FUNDEB              	
+RJ	2024	 4	   27943788.00	  168725168.00	   59979404.00	ICMS                	FUNDEB              	
+RJ	2024	 4	    6181725.50	    1435573.00	    5727269.50	FPE                 	FUNDEB              	
+RJ	2024	 4	    8818757.00	  589179264.00	  428154496.00	ANP                 	Royalties           	
+RJ	2024	 4	          0.00	          0.00	    1770507.50	FEP                 	Royalties           	
+RJ	2024	 4	          0.00	          0.00	     206741.27	CFEM                	Royalties           	
+RJ	2024	 4	     590625.31	          0.00	          0.00	CFH                 	Royalties           	
+RJ	2024	 4	          0.00	          0.00	    8177150.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+RJ	2024	 4	          0.00	          0.00	   21151738.00	COUN VAAF           	FUNDEB              	
+RN	2024	 4	    2815311.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+RN	2024	 4	  218524720.00	   53756284.00	  185071968.00	FPE                 	FPE                 	
+RN	2024	 4	     568427.13	     265266.41	      59539.62	IPI-EXP             	IPI-Exp             	
+RN	2024	 4	   12267636.00	    2975399.25	   10634658.00	FPM                 	FUNDEB              	
+RN	2024	 4	      49899.35	      23286.38	       5226.69	IPI-EXP             	FUNDEB              	
+RN	2024	 4	       3788.24	       1156.62	        676.26	ITR                 	FUNDEB              	
+RN	2024	 4	     340208.13	          0.00	    1817807.25	IPVA                	FUNDEB              	
+RN	2024	 4	      29767.43	      99491.61	      60454.89	ITCMD               	FUNDEB              	
+RN	2024	 4	   15727538.00	   18245402.00	   11269237.00	ICMS                	FUNDEB              	
+RN	2024	 4	   19183172.00	    4718990.50	   16246524.00	FPE                 	FUNDEB              	
+RN	2024	 4	          0.00	   19186784.00	          0.00	ANP                 	Royalties           	
+RN	2024	 4	          0.00	          0.00	    2781346.25	FEP                 	Royalties           	
+RN	2024	 4	          0.00	          0.00	      54695.36	CFEM                	Royalties           	
+RN	2024	 4	          0.00	          0.00	     681125.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+RN	2024	 4	          0.00	          0.00	    1766401.63	COUN VAAR           	FUNDEB              	
+RO	2024	 4	    2246926.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+RO	2024	 4	      30760.38	       5532.66	      21073.44	IOF Ouro            	IOF-Ouro            	
+RO	2024	 4	  151322928.00	   36746264.00	  130923832.00	FPE                 	FPE                 	
+RO	2024	 4	    1139383.88	     531713.31	     119344.17	IPI-EXP             	IPI-Exp             	
+RO	2024	 4	    6665577.50	    1616673.00	    5778305.00	FPM                 	FUNDEB              	
+RO	2024	 4	     151392.86	      70650.08	      15857.57	IPI-EXP             	FUNDEB              	
+RO	2024	 4	      46982.78	      12370.86	      11341.92	ITR                 	FUNDEB              	
+RO	2024	 4	    2527004.00	    3116492.75	    1026970.94	IPVA                	FUNDEB              	
+RO	2024	 4	      41176.38	      93161.95	      50069.96	ITCMD               	FUNDEB              	
+RO	2024	 4	   11122953.00	   21205466.00	   17334970.00	ICMS                	FUNDEB              	
+RO	2024	 4	   20106664.00	    4882570.00	   17396184.00	FPE                 	FUNDEB              	
+RO	2024	 4	          0.00	          0.00	    2164010.50	FEP                 	Royalties           	
+RO	2024	 4	          0.00	          0.00	     308906.41	CFEM                	Royalties           	
+RO	2024	 4	    4965377.00	          0.00	          0.00	CFH                 	Royalties           	
+RO	2024	 4	          0.00	          0.00	    2897687.75	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+RO	2024	 4	          0.00	          0.00	    1699399.50	COUN VAAR           	FUNDEB              	
+RR	2024	 4	    1325353.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+RR	2024	 4	  147433168.00	   34180228.00	  136929424.00	FPE                 	FPE                 	
+RR	2024	 4	     332845.84	     155328.31	      34863.78	IPI-EXP             	IPI-Exp             	
+RR	2024	 4	    3562427.00	     864033.06	    3088222.75	FPM                 	FUNDEB              	
+RR	2024	 4	      41184.30	      19219.36	       4313.83	IPI-EXP             	FUNDEB              	
+RR	2024	 4	       2075.00	       1968.68	       3495.78	ITR                 	FUNDEB              	
+RR	2024	 4	     562795.63	     180171.00	     174358.94	IPVA                	FUNDEB              	
+RR	2024	 4	      61644.89	      53069.07	       4009.95	ITCMD               	FUNDEB              	
+RR	2024	 4	    1812640.63	    7879283.50	    1684898.25	ICMS                	FUNDEB              	
+RR	2024	 4	   18242466.00	    4229250.00	   16942800.00	FPE                 	FUNDEB              	
+RR	2024	 4	          0.00	          0.00	    2914669.25	FEP                 	Royalties           	
+RR	2024	 4	          0.00	          0.00	       4719.39	CFEM                	Royalties           	
+RR	2024	 4	          0.00	          0.00	     322687.53	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+RS	2024	 4	    8810391.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+RS	2024	 4	  114996664.00	   29253632.00	   91816160.00	FPE                 	FPE                 	
+RS	2024	 4	   21972630.00	   10253911.00	    2301512.00	IPI-EXP             	IPI-Exp             	
+RS	2024	 4	   38653484.00	    9375038.00	   33508214.00	FPM                 	FUNDEB              	
+RS	2024	 4	    2253010.75	    1051406.63	     235990.45	IPI-EXP             	FUNDEB              	
+RS	2024	 4	     112208.86	      50216.46	      75029.63	ITR                 	FUNDEB              	
+RS	2024	 4	   22097434.00	   10630880.00	   28751760.00	IPVA                	FUNDEB              	
+RS	2024	 4	    3006340.50	    1392873.63	    4561104.50	ITCMD               	FUNDEB              	
+RS	2024	 4	   86343800.00	  112956336.00	  205275296.00	ICMS                	FUNDEB              	
+RS	2024	 4	   11791429.00	    2999583.75	    9414567.00	FPE                 	FUNDEB              	
+RS	2024	 4	          0.00	          0.00	     983871.56	FEP                 	Royalties           	
+RS	2024	 4	          0.00	          0.00	    1782190.13	CFEM                	Royalties           	
+RS	2024	 4	    3290348.75	          0.00	          0.00	CFH                 	Royalties           	
+RS	2024	 4	          0.00	          0.00	   17821088.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+RS	2024	 4	          0.00	          0.00	    6862886.00	COUN VAAR           	FUNDEB              	
+SC	2024	 4	    6099732.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+SC	2024	 4	   68038016.00	   16607425.00	   58371904.00	FPE                 	FPE                 	
+SC	2024	 4	   17536674.00	    8183794.00	    1836869.88	IPI-EXP             	IPI-Exp             	
+SC	2024	 4	   20541660.00	    4982186.50	   17807306.00	FPM                 	FUNDEB              	
+SC	2024	 4	    1644487.13	     767428.50	     172250.94	IPI-EXP             	FUNDEB              	
+SC	2024	 4	      29213.78	      14831.63	      22384.09	ITR                 	FUNDEB              	
+SC	2024	 4	   13365130.00	   12160799.00	    6028998.50	IPVA                	FUNDEB              	
+SC	2024	 4	    2513208.25	    1781689.00	    3290755.75	ITCMD               	FUNDEB              	
+SC	2024	 4	   25640724.00	  169805808.00	   78453240.00	ICMS                	FUNDEB              	
+SC	2024	 4	    6380209.00	    1557347.50	    5473777.00	FPE                 	FUNDEB              	
+SC	2024	 4	          0.00	          0.00	     930460.19	FEP                 	Royalties           	
+SC	2024	 4	          0.00	          0.00	     616418.00	CFEM                	Royalties           	
+SC	2024	 4	    3104730.75	          0.00	          0.00	CFH                 	Royalties           	
+SC	2024	 4	          0.00	          0.00	    5402012.50	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+SE	2024	 4	    1982322.38	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+SE	2024	 4	  218284784.00	   53586008.00	  185511728.00	FPE                 	FPE                 	
+SE	2024	 4	     175704.27	      81995.46	      18404.06	IPI-EXP             	IPI-Exp             	
+SE	2024	 4	    7872677.00	    1909443.50	    6824724.00	FPM                 	FUNDEB              	
+SE	2024	 4	      15961.87	       7448.92	       1671.91	IPI-EXP             	FUNDEB              	
+SE	2024	 4	       1707.14	       1110.70	        997.19	ITR                 	FUNDEB              	
+SE	2024	 4	    3569786.50	    3143020.50	    1992664.13	IPVA                	FUNDEB              	
+SE	2024	 4	      66412.01	      21151.56	      63493.50	ITCMD               	FUNDEB              	
+SE	2024	 4	    9981412.00	   16610612.00	    4389933.00	ICMS                	FUNDEB              	
+SE	2024	 4	   19830146.00	    4868036.50	   16852868.00	FPE                 	FUNDEB              	
+SE	2024	 4	          0.00	    5530289.00	          0.00	ANP                 	Royalties           	
+SE	2024	 4	          0.00	          0.00	    2833614.25	FEP                 	Royalties           	
+SE	2024	 4	          0.00	          0.00	     180245.98	CFEM                	Royalties           	
+SE	2024	 4	     417569.53	          0.00	          0.00	CFH                 	Royalties           	
+SE	2024	 4	          0.00	          0.00	     313112.50	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+SP	2024	 4	   27159990.00	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+SP	2024	 4	       2132.03	        756.78	       4640.70	IOF Ouro            	IOF-Ouro            	
+SP	2024	 4	   55647120.00	   13294324.00	   49409300.00	FPE                 	FPE                 	
+SP	2024	 4	   57621176.00	   26889924.00	    6035500.50	IPI-EXP             	IPI-Exp             	
+SP	2024	 4	   84392936.00	   20468712.00	   73159168.00	FPM                 	FUNDEB              	
+SP	2024	 4	    6481454.50	    3024683.50	     678896.56	IPI-EXP             	FUNDEB              	
+SP	2024	 4	    1316448.88	      92440.99	     102345.49	ITR                 	FUNDEB              	
+SP	2024	 4	   81268800.00	   59686744.00	  150372656.00	IPVA                	FUNDEB              	
+SP	2024	 4	   16700656.00	    6388125.50	   17706528.00	ITCMD               	FUNDEB              	
+SP	2024	 4	  615513920.00	  188856192.00	 1021794816.00	ICMS                	FUNDEB              	
+SP	2024	 4	    6259405.00	    1495397.38	    5557751.00	FPE                 	FUNDEB              	
+SP	2024	 4	          0.00	   55900064.00	    2186859.75	ANP                 	Royalties           	
+SP	2024	 4	          0.00	          0.00	     904516.50	FEP                 	Royalties           	
+SP	2024	 4	          0.00	          0.00	    1241690.50	CFEM                	Royalties           	
+SP	2024	 4	    4730699.50	          0.00	          0.00	CFH                 	Royalties           	
+SP	2024	 4	          0.00	     944783.50	          0.00	ITA                 	Royalties           	
+SP	2024	 4	          0.00	          0.00	   38927248.00	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+TO	2024	 4	    3387641.50	          0.00	          0.00	CIDE/Combustível    	CIDE-Combustíveis   	
+TO	2024	 4	          0.00	          0.00	          5.83	IOF Ouro            	IOF-Ouro            	
+TO	2024	 4	  216228400.00	   54463764.00	  175773792.00	FPE                 	FPE                 	
+TO	2024	 4	     669146.06	     312268.66	      70089.36	IPI-EXP             	IPI-Exp             	
+TO	2024	 4	    8056570.00	    1954044.63	    6984139.00	FPM                 	FUNDEB              	
+TO	2024	 4	      68870.98	      32139.82	       7213.84	IPI-EXP             	FUNDEB              	
+TO	2024	 4	      50031.84	      29023.48	      45555.78	ITR                 	FUNDEB              	
+TO	2024	 4	     802836.25	     315905.81	    1023431.13	IPVA                	FUNDEB              	
+TO	2024	 4	     142628.91	      73796.13	     246943.28	ITCMD               	FUNDEB              	
+TO	2024	 4	    8906297.00	   28594740.00	    7260830.50	ICMS                	FUNDEB              	
+TO	2024	 4	   22255040.00	    5605615.00	   18091298.00	FPE                 	FUNDEB              	
+TO	2024	 4	          0.00	          0.00	    2119430.00	FEP                 	Royalties           	
+TO	2024	 4	          0.00	          0.00	     258357.70	CFEM                	Royalties           	
+TO	2024	 4	    1396952.88	          0.00	          0.00	CFH                 	Royalties           	
+TO	2024	 4	          0.00	          0.00	    4166725.50	LC 176/2020 (ADO25) 	LC 176/2020 (ADO25) 	
+TO	2024	 4	          0.00	          0.00	     144472.47	COUN VAAR           	FUNDEB              	

@@ -3,10 +3,10 @@
 #include <string.h>
 #define SUCESSO 0
 #define ERRO 1
-#define TAM_NOME 100 + 1
-#define TAM_LINHA 1000 + 1
+#define TAM_LINHA 500 + 1
 
-int readCsv() {
+int main(int argc, char ** argv){
+
     FILE * inFile = stdin, * outFile = stdout;
     char ** columns, line[TAM_LINHA];
     int numCol = 0;
@@ -46,16 +46,6 @@ int readCsv() {
     free(columns);
     fclose(inFile);
     fclose(outFile);
-
-    return SUCESSO;
-}
-
-int main(int argc, char ** argv){
-
-    int erro = readCsv("in.csv", "out.txt");
-    
-    if(erro) printf("Falha crítica\n");
-    else printf("Ação realizada com sucesso.\n");
 
     return SUCESSO;
 }

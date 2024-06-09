@@ -3,16 +3,16 @@
 #include <string.h>
 #define SUCESSO 0
 #define ERRO 1
-#define TAM_NOME 100 + 1
-#define TAM_LINHA 1000 + 1
+#define TAM_LINHA 500 + 1
 
-int readCsv(char *inName, char *outName) {
+int main(int argc, char ** argv){
+
     FILE * inFile, * outFile;
     char ** columns, line[TAM_LINHA], *strEnd = '\0';
     int numCol = 0;
 
-    inFile = fopen(inName, "r");
-    outFile = fopen(outName, "w");
+    inFile = fopen("in.csv", "r");
+    outFile = fopen("out.txt", "w");
     if (inFile == NULL || outFile == NULL) { //verifica se os arquivos abriram corretamente
         fclose(inFile);
         fclose(outFile);
@@ -55,16 +55,6 @@ int readCsv(char *inName, char *outName) {
     free(columns);
     fclose(inFile);
     fclose(outFile);
-
-    return SUCESSO;
-}
-
-int main(int argc, char ** argv){
-
-    int erro = readCsv("in.csv", "out.txt");
-    
-    if(erro) printf("Falha crítica\n");
-    else printf("Ação realizada com sucesso.\n");
 
     return SUCESSO;
 }
